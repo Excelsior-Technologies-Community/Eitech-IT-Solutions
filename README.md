@@ -1,2 +1,2 @@
-# Eitech---IT-Solutions
+# Eitech-IT-Solutions
 The project about Eitech IT Solutions
